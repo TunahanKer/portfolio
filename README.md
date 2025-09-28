@@ -12,6 +12,7 @@ Aynı zamanda Kayıp evcil hayvan bildirimi yapılabiliyor.
 - kayıp evcil hayvan bildirimi
 - Firebase entegrasyonu
 - Görsel yükleme (İmagekit.io)
+- Firebase functions(lig sıralaması için)
 
 ---
 
@@ -35,6 +36,6 @@ Aynı zamanda Kayıp evcil hayvan bildirimi yapılabiliyor.
 ---
 
 ## 📸 Ekran Görüntüleri
-<img src="screenshots/main.png" width="200"/> <img src="screenshots/login.png" width="200"/>
+<img src="screenshots/login.png" width="200"/> <img src="screenshots/main.png" width="200"/> <img src="screenshots/kayip_pet.png" width="200"/> <img src="screenshots/news.png" width="200"/> <img src="screenshots/lig.png" width="200"/> <img src="screenshots/hakkinda.png" width="200"/>
 
 ---
