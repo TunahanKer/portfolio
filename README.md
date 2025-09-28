@@ -1,4 +1,4 @@
-# portfolio
+# PORTFOLİO
 # 📱 Yempati Uygulaması
 
 Hayvanlara destek olmayı amaçlayan reklam izleme tabanlı bir mobil uygulama.  
