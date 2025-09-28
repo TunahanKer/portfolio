@@ -13,6 +13,7 @@ Aynı zamanda Kayıp evcil hayvan bildirimi yapılabiliyor.
 - Firebase entegrasyonu
 - Görsel yükleme (İmagekit.io)
 - Firebase functions(lig sıralaması için)
+- Anlık bildirim gönderme
 
 ---
 
