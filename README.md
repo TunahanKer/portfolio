@@ -32,9 +32,7 @@ Aynı zamanda Kayıp evcil hayvan bildirimi yapılabiliyor.
 -	image_picker
 -	cloud_functions
 
-  
 <img width="454" height="405" alt="image" src="https://github.com/user-attachments/assets/a5d62ea7-a233-4dd9-a72a-8c303bcb95b1" />
-
 
 ---
 
