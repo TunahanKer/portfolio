@@ -1,5 +1,4 @@
 # portfolio
-Mobile App Portfolio 
 # 📱 Yempati Uygulaması
 
 Hayvanlara destek olmayı amaçlayan reklam izleme tabanlı bir mobil uygulama.  
@@ -31,12 +30,11 @@ Aynı zamanda Kayıp evcil hayvan bildirimi yapılabiliyor.
 -	connectivity_plus
 -	image_picker
 -	cloud_functions
-
-<img width="454" height="405" alt="image" src="https://github.com/user-attachments/assets/a5d62ea7-a233-4dd9-a72a-8c303bcb95b1" />
+  
 
 ---
 
 ## 📸 Ekran Görüntüleri
-<img src="screenshots/home.png" width="200"/> <img src="screenshots/donation.png" width="200"/>
+<img src="screenshots/main.png" width="200"/> <img src="screenshots/login.png" width="200"/>
 
 ---
