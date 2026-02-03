@@ -66,7 +66,7 @@ Kewi bayi portalı, webview tabanlı bir mobil uygulama.
 ---
 
 ## 📸 Ekran Görüntüleri
-<img src="screenshots/kewi/splash.png" width="200"/> <img src="screenshots/kewi/admin_login.png" width="200"/> <img src="screenshots/kewi/main.png" width="200"/> <img src="screenshots/kewi/g_baslat.png" width="200"/> <img src="screenshots/kewi/hakkinde.png" width="200"/> 
+<img src="screenshots/kewi/splash.png" width="200"/> <img src="screenshots/kewi/admin_login.png" width="200"/> <img src="screenshots/kewi/main.png" width="200"/> <img src="screenshots/kewi/g_baslat.png" width="200"/> <img src="screenshots/kewi/hakkinda.png" width="200"/> 
 
 -------
 -------
